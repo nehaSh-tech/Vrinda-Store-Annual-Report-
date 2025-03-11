@@ -4,7 +4,7 @@
 This repository contains an interactive Excel Dashboard analyzing sales data for Vrinda Store in 2022. The dashboard provides insights into sales trends, customer demographics, order distribution, and top-performing channels.
 
 📂 Files in This Repository
-sales_dashboard.xlsx – The main Excel dashboard file.
+vrinda_store_data_Analysis.xlsx – The main Excel dashboard file.
 dashboard_screenshot.png – A preview of the dashboard.
 
 📈 Key Insights
